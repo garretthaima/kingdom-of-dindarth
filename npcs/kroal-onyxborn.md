@@ -1,6 +1,10 @@
 # Kroal Onyxborn
 
+Oldest member of Thobam noble families, very traditional, speaks slowly
+
 ## Alignment
+
+- Lawful Neutral
 
 ## Backstory
 
@@ -9,6 +13,14 @@
 ## Family Members
 
 ## Physical Traits
+|Trait|Description|
+|---|----------|
+|Age| 312|
+|Height|4'0"|
+|Weight|132 lbs|
 
-* Height weight age, etc
+## Stat block
 
+[Firefist](https://www.dndbeyond.com/monsters/175820-firefist)
+
+- Great Axe instead of Greatsword

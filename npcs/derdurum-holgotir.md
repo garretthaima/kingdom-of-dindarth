@@ -23,16 +23,11 @@
 #### Sidgric Holgotir - Youngest Son
 
 ## Physical Traits
-
-#### Age
-
-295
-
-#### Height
-4'7"
-
-#### Weight
-133 lbs
+|Trait|Description|
+|---|----------|
+|Age| 295|
+|Height|4'7"|
+|Weight|133 lbs|
 
 ## Stat block
 
