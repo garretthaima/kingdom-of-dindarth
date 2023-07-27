@@ -2,6 +2,9 @@
 This is the background and overview of the kingdoms apart of the land of Eindrilth. The races of Eindrilth are the basic races from the D&D 5e PHB (Races)
 
 ## Dwarf Kingdoms
+
+![alt text](https://github.com/garretthaima/kingdom-of-dindarth/blob/83a4bf256a1eb6cac52ec6609065ec0f416b08af/world-info/images/Bastrel%20Valley.jpg?raw=true)
+
 ### Kingdom of Holgotir
 
 **Background:**
