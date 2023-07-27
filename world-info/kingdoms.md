@@ -110,4 +110,21 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 
 **Language:**
 
-## Elven Kingdom
+## Elven Kingdoms
+
+### Sythaeryn Elves
+
+**Background:**
+- Small group of wood elves
+
+**Terrain:**
+- Completely surrounded by the Night Maven Forest
+
+**Politics:**
+- Very tribal like in how they live
+
+**Ruler:**
+- None
+
+**Language:**
+- Common, Elven
