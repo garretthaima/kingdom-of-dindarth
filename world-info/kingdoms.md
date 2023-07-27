@@ -38,7 +38,7 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 - Capitalism 
 
 **Ruler:**
-- Dolmek Mountainshield (LN)
+- [Dolmek Mountainshield (LN)](https://github.com/garretthaima/kingdom-of-dindarth/blob/feature/world-building/npcs/dolmek-mountainshield.md)
 
 **Language:**
 - Command, Dwarf, Orc, Draconic (reading only)
