@@ -21,7 +21,7 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 - Socialistic 
 
 **Ruler:**
-- Derdurum Holgotir (LG)
+- [Derdurum Holgotir](../npcs/derdurum-holgotir.md)
 
 **Language:**
 - Common, Dwarf, Elven
@@ -38,6 +38,11 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 **Politics:**
 - Capitalism
 - Ruled by a council of noble families.
+    - Onyxborn - led by Kroal (oldest member, very traditional, speaks slowly).
+    - Irontongue - led by Grimmic (innovative, open to change, avoids conflict).
+    - Oplalmane - led by Hedrus (youngest member, headstrong, dislikes other kingdoms).
+    - Coppershield - led by Bhaal (trade savvy, looks for opportunity, quick-whitted).
+    - Coalheart - led by Thremen (doesn’t like to talk, prefers to work/fight/drink, respects strength).
 - Families are represented by a patriarch who designates his successor (not always the patriarch’s son).
 - Relative influence and power are determined by each family’s mining output.
 - When mines from different families intersect or claim the same ore vein, the council intervenes and determines ownership.
@@ -45,13 +50,12 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 - Is cordial with Holgotir. They trade metals and gems for tools/food.
 
 **Ruler:**
-- Dolmek Mountainshield (LN) (pending)
-#### 5 noble families:
-- Onyxborn - led by Kroal (oldest member, very traditional, speaks slowly).
-- Irontongue - led by Grimmic (innovative, open to change, avoids conflict).
-- Oplalmane - led by Hedrus (youngest member, headstrong, dislikes other kingdoms).
-- Coppershield - led by Bhaal (trade savvy, looks for opportunity, quick-whitted).
-- Coalheart - led by Thremen (doesn’t like to talk, prefers to work/fight/drink, respects strength).
+- [Kroal Onyxborn](../npcs/kroal-onyxborn.md)
+- [Grimmic Irontongue](../npcs/grimmic-irontongue.md)
+- [Hedrus Oplalmane](../npcs/hedrus-oplamane.md)
+- [Bhaal Coppershield](../npcs/bhaal-coppershield.md)
+- [Thremen Coalheart](../npcs/thremen-coalheart.md)
+
 
 **Language:**
 - Command, Dwarf, Orc, Draconic (reading only)
@@ -75,7 +79,6 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 - Each warlord commands their own armies which can include non-dwarf races among their members.
 
 **Ruler:**
-- Melmus Trueblade (LE) (pending)
 - [Borrick Axebreaker - Oakjaws](../npcs/borrick-axebreaker.md)
 - [Nog Lavaforged - Flameguard](../npcs/nog-lavaforged.md)
 - [Wiltrend Grimfury - Blackhorns](../npcs/wiltrend-grimfury.md)
