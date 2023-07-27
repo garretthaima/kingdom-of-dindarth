@@ -8,17 +8,18 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 ### Kingdom of Holgotir
 
 **Background:**
-- Originated over 10,000 years ago and there is a strong blood familial blood line that has been protected. 
+- Originated over 10,000 years ago and there is a strong familial blood line that has been protected. 
 - Most money comes from trading wheat, they are not natural miners; however, they are very good at making tools and machines to farm efficiently.
 - Very religious and devout followers of the elven god Shenarah, goddess of fertility commerce.
 
 **Terrain:**
-- Valley farmers near an old mountain, the range of the mountain is only about 6 miles long. Old mining caves still dot the foothills but many of the most valuable ore veins have been exhausted.
+- Valley farmers near the Bastrel Mountains. Old mining caves still dot the foothills but many of the most valuable ore veins have been exhausted.
 
 - **Politics:**
 - Family dynasty
-- Most people are tradesmen, either working the machines or building/fixing them. 
-- Socialistic 
+- Most people are tradesmen, either working the machines or building/fixing them.
+- Has trade relations with Thobam, trading wheat for metals and stone 
+- Socialism
 
 **Ruler:**
 - [Derdurum Holgotir](../npcs/derdurum-holgotir.md)

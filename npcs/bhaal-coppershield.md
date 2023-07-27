@@ -1,6 +1,10 @@
 # Bhaal Coppershield
 
+Trade savvy, looks for opportunity, quick-whitted
+
 ## Alignment
+
+- Chaotic Good
 
 ## Backstory
 
@@ -10,5 +14,10 @@
 
 ## Physical Traits
 
-* Height weight age, etc
+|Trait|Description|
+|---|----------|
+|Age| 132|
+|Height|4'5"|
+|Weight|178 lbs|
 
+## Stat block

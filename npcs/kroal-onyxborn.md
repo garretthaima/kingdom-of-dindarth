@@ -20,7 +20,3 @@ Oldest member of Thobam noble families, very traditional, speaks slowly
 |Weight|132 lbs|
 
 ## Stat block
-
-[Firefist](https://www.dndbeyond.com/monsters/175820-firefist)
-
-- Great Axe instead of Greatsword

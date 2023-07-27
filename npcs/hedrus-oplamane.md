@@ -1,6 +1,10 @@
 # Hedrus Oplamane
 
+Youngest member, headstrong, dislikes other kingdoms
+
 ## Alignment
+
+- Chaotic Neutral
 
 ## Backstory
 
@@ -10,5 +14,10 @@
 
 ## Physical Traits
 
-* Height weight age, etc
+|Trait|Description|
+|---|----------|
+|Age| 58|
+|Height|3'9"|
+|Weight|109 lbs|
 
+## Stat block
