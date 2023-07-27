@@ -32,8 +32,8 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 - Mining Kingdom
 
 **Terrain:**
--	City is located high in the Eastern Bastrel Mountains.
--	Deep cave complexes underneath the mines of Velorria.
+- City is located high in the Eastern Bastrel Mountains.
+- Deep cave complexes underneath the mines of Velorria.
 
 **Politics:**
 - Capitalism
@@ -45,7 +45,13 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 - Is cordial with Holgotir. They trade metals and gems for tools/food.
 
 **Ruler:**
-- Dolmek Mountainshield (LN)
+- Dolmek Mountainshield (LN) (pending)
+#### 5 noble families:
+- Onyxborn - led by Kroal (oldest member, very traditional, speaks slowly).
+- Irontongue - led by Grimmic (innovative, open to change, avoids conflict).
+- Oplalmane - led by Hedrus (youngest member, headstrong, dislikes other kingdoms).
+- Coppershield - led by Bhaal (trade savvy, looks for opportunity, quick-whitted).
+- Coalheart - led by Thremen (doesn’t like to talk, prefers to work/fight/drink, respects strength).
 
 **Language:**
 - Command, Dwarf, Orc, Draconic (reading only)
@@ -54,28 +60,25 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 
 **Background:**
 - Kingdom of mercenaries and armies for hire.
--	Feared/respected by outsiders and their fellow dwarves.
--	Have been involved in many wars on many continents with many races.
--	Competent builders of weapons, fortifications, ships, etc. (the engineers of the dwarves).
--	Gold is their god and violence is their religion.
+- Feared/respected by outsiders and their fellow dwarves.
+- Have been involved in many wars on many continents with many races.
+- Competent builders of weapons, fortifications, ships, etc. (the engineers of the dwarves).
+- Gold is their god and violence is their religion.
 
 **Terrain:**
 - Semi-coastal mountains in the high northeast Bastrel Mountains.
--	Occasionally hunt animals and pillage traders who travel through the Night Maven Forest.
+- Occasionally hunt animals and pillage traders who travel through the Night Maven Forest.
 
 **Politics:**
 - Loose confederation of warlords who mostly cooperate in the interest of making coin.
--	Conflicts of honor are settled by duels using only the traditional dwarven tool: a pickaxe.
--	Each warlord commands their own armies which can include non-dwarf races among their members.
+- Conflicts of honor are settled by duels using only the traditional dwarven tool: a pickaxe.
+- Each warlord commands their own armies which can include non-dwarf races among their members.
 
 **Ruler:**
-- Dolmek Mountainshield (LN) (pending)
-#### 5 noble families:
-- Onyxborn- led by Kroal (oldest member, very traditional, speaks slowly).
-- Irontongue- led by Grimmic (innovative, open to change, avoids conflict).
-- Oplalmane- led by Hedrus (youngest member, headstrong, dislikes other kingdoms).
-- Coppershield- led by Bhaal (trade savvy, looks for opportunity, quick-whitted).
-- Coalheart- led by Thremen (doesn’t like to talk, prefers to work/fight/drink, respects strength).
+- Melmus Trueblade (LE) (pending)
+- [Borrick Axebreaker - Oakjaws](../npcs/borrick-axebreaker.md)
+- [Nog Lavaforged - Flameguard](../npcs/nog-lavaforged.md)
+- [Wiltrend Grimfury - Blackhorns](../npcs/wiltrend-grimfury.md)
 
 **Language:**
 - Command, Dwarf
@@ -85,18 +88,18 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 **Background:**
 - Former culmination of all three kingdoms
 - Does not exist
--	Cooperation between dwarves brought great respect and wealth to the region.
--	Many statues, carvings, and ruins can be found throughout the land as references to that prosperity.
+- Cooperation between dwarves brought great respect and wealth to the region.
+- Many statues, carvings, and ruins can be found throughout the land as references to that prosperity.
 
 **Terrain:**
--	Ruled from Helrynn’s Keep in the south and controlled the valley access from that direction.
--	Smaller abandoned redoubts are dotted throughout the valley and mountains and were connected by messengers.
+- Ruled from Helrynn’s Keep in the south and controlled the valley access from that direction.
+- Smaller abandoned redoubts are dotted throughout the valley and mountains and were connected by messengers.
 
 **Politics:**
--	Members of the guard/military were known as the Golden Hand.
--	Peacekeepers would occasionally be deployed to reestablish order when the kingdoms got into scuffles.
--	United dwarves against external threats throughout history.
--	Leader was selected from the kingdoms based on their personal quality and dedication to upholding balance.
+- Members of the guard/military were known as the Golden Hand.
+- Peacekeepers would occasionally be deployed to reestablish order when the kingdoms got into scuffles.
+- United dwarves against external threats throughout history.
+- Leader was selected from the kingdoms based on their personal quality and dedication to upholding balance.
 
 **Ruler:**
 - None
