@@ -69,10 +69,13 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 -	Each warlord commands their own armies which can include non-dwarf races among their members.
 
 **Ruler:**
-- Melmus Trueblade (LE) (pending)
-- Borrick Axebreaker- Oakjaws
-- Nog Lavaforged- Flameguard
-- Wiltrend Grimfury- Blackhorns
+- Dolmek Mountainshield (LN) (pending)
+#### 5 noble families:
+- Onyxborn- led by Kroal (oldest member, very traditional, speaks slowly).
+- Irontongue- led by Grimmic (innovative, open to change, avoids conflict).
+- Oplalmane- led by Hedrus (youngest member, headstrong, dislikes other kingdoms).
+- Coppershield- led by Bhaal (trade savvy, looks for opportunity, quick-whitted).
+- Coalheart- led by Thremen (doesn’t like to talk, prefers to work/fight/drink, respects strength).
 
 **Language:**
 - Command, Dwarf
