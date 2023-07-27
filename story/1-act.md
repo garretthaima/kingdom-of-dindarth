@@ -16,3 +16,8 @@ The party is requested by Holgotir and must travel through the Night Maven Fores
 - Kingdom of Holgotir
 - Fort Hammarlum (Kingdom of Bloodsunder controlled)
 - Sythaeryn Settlement (Elves)
+
+## Magical Items
+
+## Levels
+5-6
