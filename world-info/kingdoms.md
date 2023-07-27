@@ -10,12 +10,12 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 **Background:**
 - Originated over 10,000 years ago and there is a strong blood familial blood line that has been protected. 
 - Most money comes from trading wheat, they are not natural miners; however, they are very good at making tools and machines to farm efficiently.
-- Very religious and those who worship only worship one deity
+- Very religious and devout followers of the elven god Shenarah, goddess of fertility commerce.
 
 **Terrain:**
-- Valley farmers near an old mountain (old mountains or not tall because weathering has shortened the peaks over the years), the range of the mountain is only about 6 miles long.
+- Valley farmers near an old mountain, the range of the mountain is only about 6 miles long. Old mining caves still dot the foothills but many of the most valuable ore veins have been exhausted.
 
-**Politics:**
+- **Politics:**
 - Family dynasty
 - Most people are tradesmen, either working the machines or building/fixing them. 
 - Socialistic 
@@ -32,13 +32,20 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 - Mining Kingdom
 
 **Terrain:**
+-	City is located high in the Eastern Bastrel Mountains.
+-	Deep cave complexes underneath the mines of Velorria.
 
 **Politics:**
-- Elected ruler
-- Capitalism 
+- Capitalism
+- Ruled by a council of noble families.
+- Families are represented by a patriarch who designates his successor (not always the patriarch’s son).
+- Relative influence and power are determined by each family’s mining output.
+- When mines from different families intersect or claim the same ore vein, the council intervenes and determines ownership.
+- Non-noble families and individuals make up much of the labor force while the noble family members act as overseers and other educated positions.
+- Is cordial with Holgotir. They trade metals and gems for tools/food.
 
 **Ruler:**
-- [Dolmek Mountainshield (LN)](https://github.com/garretthaima/kingdom-of-dindarth/blob/feature/world-building/npcs/dolmek-mountainshield.md)
+- Dolmek Mountainshield (LN)
 
 **Language:**
 - Command, Dwarf, Orc, Draconic (reading only)
@@ -46,16 +53,26 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 ### Kingdom of Bloodsunder
 
 **Background:**
-- Mercenaries
+- Kingdom of mercenaries and armies for hire.
+-	Feared/respected by outsiders and their fellow dwarves.
+-	Have been involved in many wars on many continents with many races.
+-	Competent builders of weapons, fortifications, ships, etc. (the engineers of the dwarves).
+-	Gold is their god and violence is their religion.
 
 **Terrain:**
-- Mountains and Ocean with settlements along rivers
+- Semi-coastal mountains in the high northeast Bastrel Mountains.
+-	Occasionally hunt animals and pillage traders who travel through the Night Maven Forest.
 
 **Politics:**
-- Ruler appointment by a council (parliament) 
+- Loose confederation of warlords who mostly cooperate in the interest of making coin.
+-	Conflicts of honor are settled by duels using only the traditional dwarven tool: a pickaxe.
+-	Each warlord commands their own armies which can include non-dwarf races among their members.
 
 **Ruler:**
-- Melmus Trueblade (LE)
+- Melmus Trueblade (LE) (pending)
+- Borrick Axebreaker- Oakjaws
+- Nog Lavaforged- Flameguard
+- Wiltrend Grimfury- Blackhorns
 
 **Language:**
 - Command, Dwarf
@@ -65,10 +82,18 @@ This is the background and overview of the kingdoms apart of the land of Eindril
 **Background:**
 - Former culmination of all three kingdoms
 - Does not exist
+-	Cooperation between dwarves brought great respect and wealth to the region.
+-	Many statues, carvings, and ruins can be found throughout the land as references to that prosperity.
 
 **Terrain:**
+-	Ruled from Helrynn’s Keep in the south and controlled the valley access from that direction.
+-	Smaller abandoned redoubts are dotted throughout the valley and mountains and were connected by messengers.
 
 **Politics:**
+-	Members of the guard/military were known as the Golden Hand.
+-	Peacekeepers would occasionally be deployed to reestablish order when the kingdoms got into scuffles.
+-	United dwarves against external threats throughout history.
+-	Leader was selected from the kingdoms based on their personal quality and dedication to upholding balance.
 
 **Ruler:**
 - None
